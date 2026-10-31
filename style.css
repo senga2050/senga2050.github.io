@@ -344,6 +344,8 @@ svg {
   display: block;
   width: min(100%, 326px);
   mix-blend-mode: multiply;
+  animation: logo-spin 30s linear infinite;
+  transform-style: preserve-3d;
 }
 
 .visual-caption {
@@ -1198,6 +1200,12 @@ a.contact-card:hover {
 @keyframes marquee {
   to {
     transform: translateX(-50%);
+  }
+}
+
+@keyframes logo-spin {
+  to {
+    transform: rotateY(360deg);
   }
 }
 
