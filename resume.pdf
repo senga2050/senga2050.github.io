@@ -1,0 +1,76 @@
+%PDF-1.4
+%����
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 4 0 R /F2 5 0 R >> >> /Contents 6 0 R >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica /Encoding /WinAnsiEncoding >>
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding >>
+endobj
+6 0 obj
+<< /Length 3145 >>
+stream
+0.98 0.985 0.995 rg 0 0 612 792 re f
+0.07 0.10 0.19 rg 0 548 612 244 re f
+0.09 0.39 0.94 rg 0 548 7 244 re f
+1.00 0.66 0.20 rg 46 751 32 3 re f
+BT /F2 28 Tf 1.00 1.00 1.00 rg 1 0 0 1 46 708 Tm (Louis Fabrice Senga) Tj ET
+BT /F2 11 Tf 0.68 0.79 0.97 rg 1 0 0 1 46 683 Tm (FULL-STACK ENGINEER IN PROGRESS) Tj ET
+BT /F1 9 Tf 0.84 0.88 0.95 rg 1 0 0 1 46 660 Tm (African Leadership University  |  Kigali, Rwanda) Tj ET
+0.28 0.34 0.46 RG 0.8 w 46 642 m 566 642 l S
+BT /F1 9 Tf 0.94 0.96 0.99 rg 1 0 0 1 46 622 Tm (+250 794234419) Tj ET
+BT /F1 9 Tf 0.94 0.96 0.99 rg 1 0 0 1 196 622 Tm (fabricesen07@gmail.com) Tj ET
+BT /F2 8 Tf 0.70 0.79 0.93 rg 1 0 0 1 46 586 Tm (CURIOUS BY NATURE. LEARNING, BUILDING, AND GROWING.) Tj ET
+BT /F2 9 Tf 0.09 0.33 0.77 rg 1 0 0 1 46 516 Tm (PROFILE) Tj ET
+0.88 0.90 0.93 RG 0.8 w 46 507 m 566 507 l S
+BT /F1 10 Tf 0.16 0.21 0.30 rg 1 0 0 1 46 492 Tm (Aspiring full-stack engineer at African Leadership University, based in Kigali, Rwanda.) Tj ET
+BT /F1 10 Tf 0.16 0.21 0.30 rg 1 0 0 1 46 477 Tm (I enjoy turning ideas into thoughtful digital experiences and learning through hands-on projects.) Tj ET
+BT /F2 9 Tf 0.09 0.33 0.77 rg 1 0 0 1 46 443 Tm (TECHNICAL TOOLKIT) Tj ET
+0.88 0.90 0.93 RG 0.8 w 46 434 m 566 434 l S
+BT /F2 8 Tf 0.45 0.51 0.61 rg 1 0 0 1 46 419 Tm (LANGUAGES) Tj ET
+BT /F1 9 Tf 0.16 0.21 0.30 rg 1 0 0 1 141 419 Tm (Python  |  JavaScript  |  C++  |  Rust) Tj ET
+BT /F2 8 Tf 0.45 0.51 0.61 rg 1 0 0 1 46 399 Tm (DATABASES) Tj ET
+BT /F1 9 Tf 0.16 0.21 0.30 rg 1 0 0 1 141 399 Tm (PostgreSQL  |  MySQL) Tj ET
+BT /F2 8 Tf 0.45 0.51 0.61 rg 1 0 0 1 46 379 Tm (WEB) Tj ET
+BT /F1 9 Tf 0.16 0.21 0.30 rg 1 0 0 1 141 379 Tm (HTML5  |  CSS3) Tj ET
+BT /F2 9 Tf 0.09 0.33 0.77 rg 1 0 0 1 46 344 Tm (SELECTED PROJECTS) Tj ET
+0.88 0.90 0.93 RG 0.8 w 46 335 m 566 335 l S
+BT /F2 9 Tf 0.12 0.17 0.27 rg 1 0 0 1 46 320 Tm (WEATHER, WORLDWIDE) Tj ET
+BT /F1 10 Tf 0.16 0.21 0.30 rg 1 0 0 1 46 303 Tm (Real-time, city-based weather concept integrating a third-party API, loading states, and a) Tj ET
+BT /F1 9 Tf 0.16 0.21 0.30 rg 1 0 0 1 46 289 Tm (dynamically styled interface.) Tj ET
+BT /F2 9 Tf 0.12 0.17 0.27 rg 1 0 0 1 46 263 Tm (PERSONAL FINANCE AGENDA) Tj ET
+BT /F1 10 Tf 0.16 0.21 0.30 rg 1 0 0 1 46 246 Tm (Interactive expense and income tracker that calculates totals and balance, with dynamic) Tj ET
+BT /F1 9 Tf 0.16 0.21 0.30 rg 1 0 0 1 46 232 Tm (transaction rows that can be added or removed.) Tj ET
+BT /F2 9 Tf 0.12 0.17 0.27 rg 1 0 0 1 46 206 Tm (MOVIE SEARCH DASHBOARD) Tj ET
+BT /F1 9 Tf 0.16 0.21 0.30 rg 1 0 0 1 46 189 Tm (OMDb-powered movie search concept with paginated results, movie cards, and detailed views.) Tj ET
+BT /F2 9 Tf 0.09 0.33 0.77 rg 1 0 0 1 46 153 Tm (EDUCATION) Tj ET
+0.88 0.90 0.93 RG 0.8 w 46 144 m 566 144 l S
+BT /F2 9 Tf 0.12 0.17 0.27 rg 1 0 0 1 46 128 Tm (AFRICAN LEADERSHIP UNIVERSITY) Tj ET
+BT /F1 9 Tf 0.37 0.42 0.51 rg 1 0 0 1 46 111 Tm (Full-stack engineering studies  |  In progress) Tj ET
+0.88 0.90 0.93 RG 0.8 w 46 52 m 566 52 l S
+BT /F2 8 Tf 0.09 0.33 0.77 rg 1 0 0 1 46 32 Tm (BUILD. INNOVATE. TRANSFORM.) Tj ET
+BT /F1 8 Tf 0.45 0.51 0.61 rg 1 0 0 1 407 32 Tm (LOUFAB  |  2025) Tj ET
+endstream
+endobj
+xref
+0 7
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000121 00000 n 
+0000000257 00000 n 
+0000000354 00000 n 
+0000000456 00000 n 
+trailer
+<< /Size 7 /Root 1 0 R >>
+startxref
+3653
+%%EOF
